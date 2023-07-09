@@ -23,6 +23,9 @@
       "react-app/jest"
     ]
   },
+  "publishConfig": {
+    "@auronvila:registry": "https://npm.pkg.github.com"
+  },
   "browserslist": {
     "production": [
       ">0.2%",
